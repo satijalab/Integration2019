@@ -1,0 +1,1 @@
+curl -L https://www.dropbox.com/s/lgli4697fd5vi50/CD69.umi.txt?dl=0 --create-dirs -o raw_data/bone_marrow/CD69.umi.txt

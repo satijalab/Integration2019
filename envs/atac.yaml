@@ -1,0 +1,9 @@
+channels:
+        - conda-forge
+        - bioconda
+dependencies:
+        - pysam=0.15.2
+        - deeptools=3.2.1
+        - pip
+        - pip:
+            - sinto=0.1

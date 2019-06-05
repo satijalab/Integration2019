@@ -1,0 +1,16 @@
+dataset	subdir	dl_name	extension	url
+celseq	pancreas	celseq.csv.gz	csv.gz	ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE81nnn/GSE81076/suppl/GSE81076%5FD2%5F3%5F7%5F10%5F17%2Etxt%2Egz
+celseq2	pancreas	celseq2.csv.gz	csv.gz	ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE85nnn/GSE85241/suppl/GSE85241%5Fcellsystems%5Fdataset%5F4donors%5Fupdated%2Ecsv%2Egz
+fluidigmc1	pancreas	fluidigmc1.csv.gz	csv.gz	ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE86nnn/GSE86469/suppl/GSE86469%5FGEO%2Eislet%2Esingle%2Ecell%2Eprocessed%2Edata%2ERSEM%2Eraw%2Eexpected%2Ecounts%2Ecsv%2Egz
+smartseq2	pancreas	smartseq2.zip	txt	https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-5061/E-MTAB-5061.processed.1.zip
+inDrop	pancreas	inDrop.tar	csv.gz	https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE84133&format=file
+kang_pbmcs	immune	kang_pbmcs.tar	rds	https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE96583&format=file
+paul_bone_marrow	bone_marrow	paul_bone_marrow.txt.gz	txt.gz	ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE81nnn/GSE81682/suppl/GSE81682_HTSeq_counts.txt.gz
+nestorawa_bone_marrow	bone_marrow	nestorawa_bone_marrow.txt.gz	txt.gz	ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE72nnn/GSE72857/suppl/GSE72857_umitab.txt.gz
+ica_bone_marrow	bone_marrow	ica_bone_marrow.h5	h5	https://s3.amazonaws.com/preview-ica-expression-data/ica_bone_marrow_h5.h5
+mouse_cortex	spatial	mouse_cortex.loom	loom	https://storage.googleapis.com/linnarsson-lab-loom/l1_cortex2.loom
+osm_fish	spatial	osm_fish.loom	loom	http://linnarssonlab.org/osmFISH/osmFISH_SScortex_mouse_all_cells.loom
+bipolar	bipolar	bipolar.txt.gz	txt.gz	ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE81nnn/GSE81904/suppl/GSE81904_BipolarUMICounts_Cell2016.txt.gz
+mca_mws	mca	mca_mws.zip	rds	https://ndownloader.figshare.com/articles/5435866/versions/5
+mca_tm_droplet	mca	mca_tm_droplet.zip	rds	https://ndownloader.figshare.com/articles/5715025/versions/1
+mca_tm_facs	mca	mca_tm_facs.zip	rds	https://ndownloader.figshare.com/articles/5715040/versions/1

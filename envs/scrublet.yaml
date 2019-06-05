@@ -1,0 +1,15 @@
+channels:
+        - conda-forge
+dependencies:
+        - numpy=1.15.2
+        - scipy=1.1.0
+        - scikit-learn=0.20.0
+        - scikit-image=0.14.1
+        - matplotlib=3.0.0
+        - numba=0.40.0
+        - cython=0.28.5
+        - python-annoy=1.12.0
+        - pandas=0.23.4
+        - umap-learn=0.3.2
+        - pip:
+            - git+https://github.com/AllonKleinLab/scrublet.git@afe329d90fa0bddadccf9e707112f835fe83e46e --install-option="--no-deps"
